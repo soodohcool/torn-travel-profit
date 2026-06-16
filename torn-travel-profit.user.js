@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Torn - Travel Profit 
-// @namespace    torn.toniballoni.smartstock
+// @namespace    torn.toniballoni.travelprofit
 // @author       Toni_Balloni [3853029]
 // @version      0.0.1
 // @description  When abroad, reads the foreign shop and highlights the 3 most profitable in-stock items: green (1st), orange (2nd), red (3rd).
