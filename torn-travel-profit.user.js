@@ -5,6 +5,8 @@
 // @version      0.0.1
 // @description  When abroad, reads the foreign shop and highlights the 3 most profitable in-stock items: green (1st), orange (2nd), red (3rd).
 // @match        https://www.torn.com/*
+// @updateURL    https://github.com/soodohcool/torn-travel-profit/raw/refs/heads/main/torn-travel-profit.user.js
+// @downloadURL  https://github.com/soodohcool/torn-travel-profit/raw/refs/heads/main/torn-travel-profit.user.js
 // @grant        none
 // ==/UserScript==
 
